@@ -1,4 +1,5 @@
-import '../index.scss';
+import '../styles/index.scss';
+import '../styles/reset.scss';
 
 const Header = () => {
 	return (

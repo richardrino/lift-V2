@@ -8,3 +8,12 @@ ul {
 	gap: 1rem;
 	list-style: none;
 }
+
+.form {
+	display: flex;
+	flex-direction: column;
+
+	&--workout {
+		width: 25%;
+	}
+}
